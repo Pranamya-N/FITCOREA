@@ -20,7 +20,7 @@ const Login = () => {
 
   const handleLogin = () => {
     console.log('Login pressed with:', { email, password });
-    // Add your login logic here
+    
   };
 
   return (

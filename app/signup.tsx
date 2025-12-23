@@ -27,8 +27,7 @@ const Signup = () => {
 
   const handleSignup = () => {
     console.log('Signup pressed with:', { name, email, password, confirmPassword });
-    // Add your signup logic here
-    // Validate passwords match, etc.
+  
   };
 
   return (
